@@ -17,6 +17,6 @@ A Flutter app for DevCamp 2.0 (Week 3, Project 3). It shows trending movies from
 
 Screenshots are in the `screenshots` folder.
 
-Demo video: PASTE_YOUR_LINK_HERE
+Demo video:(https://drive.google.com/file/d/1PhoXXjaPcEJhiEYLg5Xp7UBDR6hn2Nly/view?usp=sharing)
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
